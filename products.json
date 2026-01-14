@@ -5,7 +5,7 @@
     "price": 7,
     "image": "images/กระทะ.jpg",
     "description": "แบบซอง อร่อยแซ่บ มีน้ำร้อนให้กดฟรี",
-    "in_stock": flash
+    "in_stock": flase
   },
   {
     "id": 2,
@@ -33,3 +33,4 @@
   }
 
 ]
+
