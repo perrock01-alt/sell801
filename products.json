@@ -1,37 +1,90 @@
 [
   {
     "id": 1,
-    "name": "มาม่า รสต้มยำกุ้ง",
-    "price": 7,
-    "image": "images/กระทะ.jpg",
-    "description": "แบบซอง อร่อยแซ่บ มีน้ำร้อนให้กดฟรี",
-    "in_stock": false
+    "name": "เตาไฟฟ้าอย่างดี",
+    "price": 0,
+    "image": "images/เตาไฟฟ้าอย่างดี.jpg",
+    "description": "ต้ม ทอด ย่าง อร่อยๆ",
+    "in_stock": true
   },
   {
     "id": 2,
-    "name": "โค้ก กระป๋อง",
+    "name": "กระทะเหล็กอย่างดี",
     "price": 15,
-    "image": "images/หม้อ.jpg",
-    "description": "แช่เย็นเจี๊ยบ สดชื่น",
+    "image": "images/กะทะอย่างดี.jpg",
+    "description": "ผัด ทอด ต้ม ได้หมด",
     "in_stock": true
   },
   {
     "id": 3,
-    "name": "ขนมเลย์ รสโนริสาหร่าย",
+    "name": "ครกหิน",
     "price": 20,
-    "image": "images/หม้อหุงข้าว.jpg",
-    "description": "ห่อใหญ่ กินเพลินๆ ตอนดูหนัง",
+    "image": "images/ครกหิน.jpg",
+    "description": "ตอนซื้อบอกไร้เสียง ใช้จริงเสียงอย่างดัง",
     "in_stock": true
   },
   {
     "id": 4,
-    "name": "ปากกาน้ำเงิน",
+    "name": "เครื่องปั่น",
     "price": 5,
-    "image": "images/pen.jpg",
-    "description": "เผื่อใครลืมเอามา ยืมเพื่อนไม่ทัน มาซื้อได้",
+    "image": "images/เครื่องปั่น.jpg",
+    "description": "อยากปั่นอะไรก็ปั่น",
     "in_stock": true
+  },
+  {
+    "id": 5,
+    "name": "ตู้เย็น",
+    "price": 5,
+    "image": "images/ตู้เย็น.jpg",
+    "description": "เย็นจนแข็ง",
+    "in_stock": true
+  },
+  {
+    "id": 6,
+    "name": "ตู้อบผ้า",
+    "price": 5,
+    "image": "images/ตู้อบแห้ง.jpg",
+    "description": "อบนานหน่อยแต่แห้งแน่นอน",
+    "in_stock": true
+  },
+  {
+    "id": 7,
+    "name": "ถังกดข้าวสาร",
+    "price": 5,
+    "image": "images/ถังกดข้าวสาร.jpg",
+    "description": "5โล อะน้อนๆ",
+    "in_stock": true
+  },
+  {
+    "id": 8,
+    "name": "ลูกกลิ้งหน้าท้อง",
+    "price": 5,
+    "image": "images/ลูกกลิ้งหน้าท้อง.jpg",
+    "description": "หน้าสับมาแล้ว",
+    "in_stock": false
+  },
+  {
+    "id": 9,
+    "name": "เสื่อโยคะ",
+    "price": 5,
+    "image": "images/เสื่อโยคะ.jpg",
+    "description": "แรกๆในออกกำลัง หลังๆใช้นั่งกินเบียร์",
+    "in_stock": false
+  },
+  {
+    "id": 10,
+    "name": "หม้อหุงข้าวขนาดเล็ก",
+    "price": 5,
+    "image": "images/หม้อหุงข้าวขนาดเล็ก.jpg",
+    "description": "มือ 1 อุปกรณ์ครบ",
+    "in_stock": true
+  },
+  {
+    "id": 11,
+    "name": "ฮุล่าฮุป",
+    "price": 5,
+    "image": "images/ฮุล่าฮุป.jpg",
+    "description": "เจ็บหน้าท้องเล่นๆ",
+    "in_stock": false
   }
-
 ]
-
-
